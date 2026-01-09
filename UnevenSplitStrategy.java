@@ -11,7 +11,7 @@ import model.User;
 
 /**
  *
- * @author mutti
+ * @author amalia
  */
 public class UnevenSplitStrategy implements ISplitStrategy{
     private Map<User, Double> customAmounts;
@@ -31,3 +31,4 @@ public class UnevenSplitStrategy implements ISplitStrategy{
         return shares;
     }
 }
+
