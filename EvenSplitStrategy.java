@@ -11,7 +11,7 @@ import java.util.Map;
 
 /**
  *
- * @author mutti
+ * @author amalia
  */
 public class EvenSplitStrategy implements ISplitStrategy{
     @Override
@@ -24,3 +24,4 @@ public class EvenSplitStrategy implements ISplitStrategy{
         return shares;
     }
 }
+
