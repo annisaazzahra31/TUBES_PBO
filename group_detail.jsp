@@ -1,7 +1,7 @@
 <%-- 
     Document   : group_detail
     Created on : 25 Dec 2025, 21.39.54
-    Author     : mutti
+    Author     : Ann
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
